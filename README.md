@@ -1,7 +1,7 @@
 # generate-cdc
-# 文件目录
+## 文件目录
 
-   ├─ src
+    ├─ src
     │  ├─ bean
     │  ├─ core
     │  ├─ db
