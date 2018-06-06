@@ -1,6 +1,17 @@
 # generate-cdc
 # 文件目录
 
+   ├─ src
+    │  ├─ bean
+    │  ├─ core
+    │  ├─ db
+    │  ├─ script
+    │  ├─ utils
+    │  └─ App.java
+    ├─ resources
+    │  ├─ init.sql
+    │  └─ jdbc.properties
+    └─ pom.xml
 
 
 # 程序主入口
