@@ -3,7 +3,8 @@
 
 
 
-# 程序主入口为：com.pwk.generatesql.App.java_
+# 程序主入口
+com.pwk.generatesql.App.java
 ```java
 
     public static void main(String[] args) throws Exception{
